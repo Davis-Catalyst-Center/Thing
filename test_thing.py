@@ -1,4 +1,4 @@
-import math.py
+import stuff
 
 def inc(x):
   return x+1
